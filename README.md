@@ -1,2 +1,4 @@
-# TSF-task1
-TASK 1
+# The Spark Foundation
+TASK 1 - Simple linear regression
+TASK 2 - Clustering (KMeans)
+TASK 3 - Decision Tree classification
