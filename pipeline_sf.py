@@ -91,7 +91,6 @@ def get_data():
                     
 ## This function loads data from .csv file to dbo tables on sql server        
 def load_sql_tables():
-    '''
    
 
     ## SF connection
